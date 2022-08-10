@@ -6,7 +6,7 @@
 </ENGLISH>
 
 <PT BR>
-  Essa é uma coleção de todo o conhecimento que adquiri na minha vida em respeito a programação, matemática para programação e como conseguir um emprego;utilizar as informações no trabalho
+  Essa é uma coleção de todo o conhecimento que adquiri na minha vida em respeito a programação, matemática para programação e como conseguir um emprego/utilizar as informações no trabalho
   Estou fazendo isso não só para organizar meus pensamentos mas também para auxiliar todos aqueles que querem seguir o mesmo caminho que estou seguindo
   Me chamo Gabriel Lopes, sou um brasileiro de 20 anos com o sonho de se tornar um programador expert
 </PT BR>
